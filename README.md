@@ -7,7 +7,7 @@ import random
 import asyncio
 
 
-token = "MTEzMjQ1Njg2ODYzMjA4NDU2Mg.GJp-bB.PSV7iJKLRpTGRqsEf2Th-1PKLf5PWjXugpedrc"  # ← PASTE YOUR VALID USER TOKEN HERE
+token = ""  # ← PASTE YOUR VALID USER TOKEN HERE
 
 
 bot = commands.Bot(command_prefix='.', self_bot=True, help_command=None)
